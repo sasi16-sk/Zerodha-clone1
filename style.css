@@ -1,0 +1,45 @@
+button{
+    background-color: skyblue;
+    color: white;
+    
+    margin: 20px;
+    padding: 30px;
+    font-size: 30px;
+    
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+}
+.p1{
+    font-size: 40px;
+    background-color: skyblue;
+    color: white;
+}
+.p2{
+    font-size: 40px;
+    background-color: skyblue;
+    color: white;
+
+}
+#Box{
+    background-color: green;
+
+}
+header{
+    display : flex;
+    justify-content: space-evenly;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
